@@ -19,6 +19,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Courses Completed</h2>
+
 - CP104 - Introduction to Programming - Python
 - CP164 - Data Structures I - Python
 - 
