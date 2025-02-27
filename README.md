@@ -17,7 +17,10 @@
 - CP264 - Data Structures II - C Programming
 - CP363 - Database I
 - CP317 - Software Engineering
+- CP312 - Algorithm Design/Analysis I
 - CP386 - Operating Systems
+- CP372 - Computer Networks
+- CP468 - Artificial Intelligence
 
 <h2>📺 Awards and Certifications</h2>
 
@@ -25,6 +28,10 @@
 - SEO HubSpot Certification | HubSpot
 - Sales Hub Software Certified | HubSpot
 - JumpCloud Certification | JumpCloud
+- Google Analytics Certification | Google
+- Google Ads Search Certification | Google
+- Honor Roll (Grade 9, Grade 10, Grade 11, Grade 12)
+- Duke of Edinburgh Award | Bronze Level Award
 
 <h2> 🤳 Connect with me:</h2>
 
