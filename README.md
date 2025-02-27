@@ -4,7 +4,7 @@
 
 <b>PYTHON</b>
 - [Math Practice Quiz](https://github.com/hargunk09/Math-Problems-Quiz)
-- (https://github.com/hargunk09/Client-Server-Communication-Application)
+- [Client-Server Communication Application](https://github.com/hargunk09/Client-Server-Communication-Application)
 
 <h2>📓 Courses Completed</h2>
 
